@@ -1,1 +1,111 @@
 # Arcane-Onslaught
+
+Arcane Onslaught - A first person voxel game like Call of Duty Zombies but with Magic
+- The same core systems of call of duty zombies will be present but translated to  a magical feel
+- Core Gameplay
+    - First person voxel-based survival game.
+    - Endless wave based survival.
+    - Each round gradually increases enemy count, health, and aggression.
+    - Survive as long as possible while chasing a high score.
+- Core Loop
+    - Defeat enemies to earn essence (points currency).
+    - Spend essence to unlock new areas within the map.
+    - Purchase stronger spells and magical equipment.
+    - Upgrade existing spells.
+    - Gather resources between rounds.
+    - Repeat until defeated.
+- Combat
+    - Replace firearms with offensive spells selectable in a weapon wheel.
+    - Unlimited basic magic with cooldowns or mana regeneration.
+    - Powerful spells consume mana.
+    - Multiple elemental damage types.
+    - Critical hits on enemy weak points.
+    - Melee option using enchanted weapons.
+    - Charge attacks for stronger spell effects.
+- Magic Schools
+    - Fire
+    - Ice
+    - Lightning
+    - Nature
+    - Shadow
+    - Light
+- Spell Categories
+    - Primary attack spells.
+    - Area of effect spells.
+    - Summoning spells.
+    - Defensive barriers.
+    - Crowd control.
+    - Mobility spells.
+    - Healing and support.
+- Progression
+    - Find new spell tomes throughout the map.
+    - Upgrade spells at magical shrines. (Pack a punch equivalent)
+    - Unlock passive magical traits. (Perks)
+    - Craft legendary artifacts. (Wonder weapon quest)
+    - Permanent progression outside matches. (There are 5 possible secondary effects for perks and you can unlock them then select 1 per perk) 
+- Mystery Box Equivalent
+    - Enchanted Altar randomly grants a spell or weapon.
+    - Chance for legendary relics. (Wonder weapons)
+    - Rare cursed rewards with powerful effects. (You have a cursed artifact that hinders you at first until you complete the hard challenge to purify it)
+- Pack-a-Punch Equivalent
+    - Arcane Forge upgrades spells.
+    - Increased damage.
+    - Reduced cooldowns.
+    - New visual effects.
+    - Additional spell behaviors.
+- Perk System
+    - Increase maximum health.
+    - Faster spell casting.
+    - Faster mana regeneration.
+    - Increased movement speed.
+    - Extra revive.
+    - Larger mana pool.
+    - Improved critical damage.
+    - Increased resource gain.
+- Equipment - make some have “ammo” like COD weapons and others be tied to the mana pool
+    - Magic staffs.
+    - Wands.
+    - Spellbooks.
+    - Enchanted swords.
+    - Magical shields.
+    - Throwing potions.
+    - Elemental grenades.
+- Enemies
+    - Undead skeletons.
+    - Corrupted knights.
+    - Dark cultists.
+    - Demons.
+    - Elemental creatures.
+    - Haunted spirits.
+    - Giant magical beasts.
+    - Elite miniboss enemies.
+- Boss Waves
+    - Boss spawns around every 10-12 rounds.
+    - Unique mechanics.
+    - Large health pools.
+- Mini boss Waves (dogs equivalent)
+    - They drop a max ammo equivalent
+- Power Ups
+    - Infinite Mana.
+    - Double Essence.
+    - Instant Spell Recharge.
+    - Arcane Fury (double damage).
+    - No target.
+    - Time Freeze.
+    - Chain Lightning Aura.
+    - Phoenix Revival.
+- Unique Magic Twists
+    - Combine two spell elements to create hybrid attacks.
+    - Chain elemental reactions between enemies.
+    - Environmental spell interactions.
+    - Corrupted relics that grant massive power with dangerous drawbacks.
+    - Rituals that permanently change the map for the remainder of the game.
+    - High risk, high reward blood magic abilities that consume health instead of mana.
+- Maps
+    - Carnival with subtle magic theming
+    - Abandoned wizard academy.
+    - Enchanted forest with bioluminescent mushrooms
+    - Underground crystal caverns.
+    - Ancient ruins.
+    - Frozen temple.
+    - Infernal fortress.
